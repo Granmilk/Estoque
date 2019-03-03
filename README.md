@@ -1,2 +1,2 @@
 # Estoque
-Repositório de software desenvolvido por mim, para fins de aprendizagem.
+Repositório de software de estoque desenvolvido por mim, para fins de aprendizagem.
