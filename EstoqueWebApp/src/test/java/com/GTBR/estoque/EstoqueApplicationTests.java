@@ -1,4 +1,4 @@
-package com.GTBR.estoque;
+package com.GTBR.Estoque;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
