@@ -2,9 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81e581af-1e6d-4836-a448-7b2141089440" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/estoque/Controller/PaginaInicialController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/paginaInicial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/datta/datta-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/datta/datta-icon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/datta/fonts/pct.eot" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/datta/fonts/pct.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/datta/fonts/pct.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/datta/fonts/pct.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/datta/fonts/pct.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/datta/fonts/pct.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/datta/fonts/pct.woff" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/datta/fonts/pct.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/feather/css/feather.css" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/feather/css/feather.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/feather/fonts/feather.eot" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/feather/fonts/feather.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/feather/fonts/feather.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/feather/fonts/feather.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/feather/fonts/feather.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/feather/fonts/feather.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/feather/fonts/feather.woff" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/feather/fonts/feather.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/css/fontawesome-all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/browser/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/browser/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/browser/chrome.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/browser/chrome.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/browser/firefox.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/browser/firefox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/browser/ie.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/browser/ie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/browser/opera.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/browser/opera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/browser/safari.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/browser/safari.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/logo-dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/logo-dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/logo-thumb.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/logo-thumb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/slider/img-slide-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/slider/img-slide-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/slider/img-slide-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/slider/img-slide-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/slider/img-slide-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/slider/img-slide-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/slider/img-slide-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/slider/img-slide-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/slider/img-slide-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/slider/img-slide-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/slider/img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/slider/img1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/slider/img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/slider/img2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/slider/img3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/slider/img3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/user/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/user/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/user/avatar-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/user/avatar-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/user/avatar-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/user/avatar-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/user/avatar-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/user/avatar-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/user/avatar-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/user/avatar-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/user/avatar-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/user/avatar-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/user/user-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/user/user-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/user/user-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/user/user-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/widget/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/widget/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/widget/dashborad-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/widget/dashborad-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/widget/dashborad-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/widget/dashborad-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/widget/dashborad-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/widget/dashborad-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/widget/dashborad-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/widget/dashborad-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/widget/dashborad-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/widget/dashborad-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/widget/dashborad-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/widget/dashborad-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/images/widget/emoticon.png" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/images/widget/emoticon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/js/pages/chart-morris-custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/js/pages/chart-morris-custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/js/pages/google-maps.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/js/pages/google-maps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/js/pcoded.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/js/pcoded.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/js/vendor-all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/js/vendor-all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/amcharts.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/amcharts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/ammap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/ammap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/gauge.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/gauge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/images/dragIconRoundBig.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/images/dragIconRoundBig.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/images/lens.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/images/lens.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/light.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/light.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/pie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/pie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/radar.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/radar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/serial.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/serial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/usaLow.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/usaLow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/amchart/js/worldLow.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/amchart/js/worldLow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/animation/css/animate.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/animation/css/animate.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/bootstrap/js/popover.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/bootstrap/js/popover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/chart-morris/css/morris.css" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/chart-morris/css/morris.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/chart-morris/js/morris.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/chart-morris/js/morris.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/chart-morris/js/raphael.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/chart-morris/js/raphael.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/google-maps/js/gmaps.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/google-maps/js/gmaps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/jquery-scrollbar/css/jquery.scrollbar.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/jquery-scrollbar/css/jquery.scrollbar.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/jquery-scrollbar/js/jquery.scrollbar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/jquery-scrollbar/js/jquery.scrollbar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/jquery-ui/js/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/jquery-ui/js/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/assets/plugins/jquery/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/jquery/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/paginaInicial.html" beforeDir="false" afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/paginaInicial.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/EstoqueWebApp/target/" />
@@ -31,8 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/paginaInicial.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="158" column="22" lean-forward="true" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
+            <state relative-caret-position="442">
+              <caret line="65" column="123" selection-start-line="65" selection-start-column="123" selection-end-line="65" selection-end-column="123" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -85,6 +175,7 @@
       <list>
         <option value="Class" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -96,6 +187,8 @@
       <list>
         <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/estoque/Controller/InicioController.java" />
         <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Controller/PaginaInicialController.java" />
+        <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/jquery/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/teste.js" />
         <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/paginaInicial.html" />
       </list>
     </option>
@@ -180,6 +273,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Estoque" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EstoqueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -198,9 +299,15 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551636829832" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551709620034" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projeto\Estoque\EstoqueWebApp\src\main\resources\static" />
+      <recent name="C:\projeto\Estoque\EstoqueWebApp\src\main\resources\templates" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -235,12 +342,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551632578507</updated>
       <workItem from="1551632584423" duration="1723000" />
-      <workItem from="1551635183398" duration="1551000" />
+      <workItem from="1551635183398" duration="5596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3274000" />
+    <option name="totallyTimeSpent" value="7319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -258,7 +365,7 @@
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,10 +417,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/plugins/jquery/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/resources/static/assets/teste.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/paginaInicial.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="158" column="22" lean-forward="true" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
+        <state relative-caret-position="442">
+          <caret line="65" column="123" selection-start-line="65" selection-start-column="123" selection-end-line="65" selection-end-column="123" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
