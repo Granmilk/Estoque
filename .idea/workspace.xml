@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81e581af-1e6d-4836-a448-7b2141089440" name="Default Changelist" comment="" />
+    <list default="true" id="81e581af-1e6d-4836-a448-7b2141089440" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/estoque/Entidades/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/estoque/Entidades/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/estoque/Entidades/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/EstoqueWebApp/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,11 +58,92 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/paginaEstoque.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="869">
-              <caret line="219" column="67" selection-start-line="219" selection-start-column="67" selection-end-line="219" selection-end-column="67" />
+            <state relative-caret-position="359">
+              <caret line="189" column="61" lean-forward="true" selection-start-line="189" selection-start-column="61" selection-end-line="189" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Funcionario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Venda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1309">
+              <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#883#884#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#1013#1014#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1097#1098#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+                <element signature="e#1177#1178#0" expanded="true" />
+                <element signature="e#1219#1220#0" expanded="true" />
+                <element signature="e#1258#1259#0" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#1349#1350#0" expanded="true" />
+                <element signature="e#1397#1398#0" expanded="true" />
+                <element signature="e#1433#1434#0" expanded="true" />
+                <element signature="e#1467#1468#0" expanded="true" />
+                <element signature="e#1519#1520#0" expanded="true" />
+                <element signature="e#1565#1566#0" expanded="true" />
+                <element signature="e#2098#2099#0" expanded="true" />
+                <element signature="e#2132#2133#0" expanded="true" />
+                <element signature="e#2191#2192#0" expanded="true" />
+                <element signature="e#2237#2238#0" expanded="true" />
+                <element signature="e#2272#2273#0" expanded="true" />
+                <element signature="e#2302#2303#0" expanded="true" />
+                <element signature="e#2349#2350#0" expanded="true" />
+                <element signature="e#2387#2388#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Produto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#1015#1016#0" expanded="true" />
+                <element signature="e#1047#1048#0" expanded="true" />
+                <element signature="e#1078#1079#0" expanded="true" />
+                <element signature="e#1107#1108#0" expanded="true" />
+                <element signature="e#1149#1150#0" expanded="true" />
+                <element signature="e#1185#1186#0" expanded="true" />
+                <element signature="e#1226#1227#0" expanded="true" />
+                <element signature="e#1263#1264#0" expanded="true" />
+                <element signature="e#1323#1324#0" expanded="true" />
+                <element signature="e#1375#1376#0" expanded="true" />
+                <element signature="e#1413#1414#0" expanded="true" />
+                <element signature="e#1449#1450#0" expanded="true" />
+                <element signature="e#1505#1506#0" expanded="true" />
+                <element signature="e#1555#1556#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,8 +154,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -87,6 +173,10 @@
         <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Controller/EstoqueController.java" />
         <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/paginaEstoque.html" />
         <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Funcionario.java" />
+        <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Vendas.java" />
+        <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Produto.java" />
+        <option value="$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Venda.java" />
       </list>
     </option>
   </component>
@@ -160,7 +250,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Estoque" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Entidades" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Estoque" type="b2602c69:ProjectViewProjectNode" />
@@ -201,7 +291,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551737597067" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551740538850" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="show.run.dashboard.notification" value="false" />
   </component>
@@ -253,16 +343,15 @@
       <workItem from="1551632584423" duration="1723000" />
       <workItem from="1551635183398" duration="5596000" />
       <workItem from="1551711943700" duration="1644000" />
-      <workItem from="1551735493135" duration="2186000" />
+      <workItem from="1551735493135" duration="4906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11149000" />
+    <option name="totallyTimeSpent" value="13869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19184123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -367,8 +456,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/resources/templates/paginaEstoque.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="869">
-          <caret line="219" column="67" selection-start-line="219" selection-start-column="67" selection-end-line="219" selection-end-column="67" />
+        <state relative-caret-position="359">
+          <caret line="189" column="61" lean-forward="true" selection-start-line="189" selection-start-column="61" selection-end-line="189" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Produto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1263#1264#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1375#1376#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1505#1506#0" expanded="true" />
+            <element signature="e#1555#1556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstoqueWebApp/src/main/java/com/GTBR/Estoque/Entidades/Venda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#1258#1259#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1433#1434#0" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1565#1566#0" expanded="true" />
+            <element signature="e#2098#2099#0" expanded="true" />
+            <element signature="e#2132#2133#0" expanded="true" />
+            <element signature="e#2191#2192#0" expanded="true" />
+            <element signature="e#2237#2238#0" expanded="true" />
+            <element signature="e#2272#2273#0" expanded="true" />
+            <element signature="e#2302#2303#0" expanded="true" />
+            <element signature="e#2349#2350#0" expanded="true" />
+            <element signature="e#2387#2388#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
